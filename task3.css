@@ -1,0 +1,104 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    
+    font-family: 'Noto Sans Vithkuqi', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+}
+#webpage #cont{
+   display: flex;
+   justify-content: space-between;
+   
+   
+}
+
+#webpage #cont #left{
+    margin-left: 146px;
+    margin-top: 103px;
+}
+#webpage #cont #left h1{
+    font-weight: 100;
+    font-size: 36px;
+    color: brown;
+}
+#webpage #cont #left form #email{
+    width: 110%;
+    height: 37px;
+    border-radius: 5px;
+    border: 2px solid lightgray;
+    
+}
+#webpage #cont #left form #password{
+    width: 110%;
+    height: 37px;
+    border-radius: 5px;
+    border: 2px solid lightgray;
+    
+}
+#webpage #cont #left form label{
+    color: grey;
+    
+}
+#webpage #cont #left form #fp a{
+    color: rgb(24, 99, 220);
+    text-decoration: none;
+}
+#webpage #cont #left form #fp a:hover{
+    border-bottom: 2px solid rgb(24, 99, 220);
+}
+#webpage #cont #left form #b{
+    width: 112%;
+    height: 35px;
+    border-radius: 20px;
+    background-color: rgb(24, 99, 220);
+    border: 2px solid rgb(24, 99, 220);
+}
+#webpage #cont #left form #b:hover{
+    background-color: darkblue;
+}
+#webpage #cont #left form #b a{
+    color: white;
+    text-decoration: none;
+}
+#webpage #cont #left form #o{
+    margin-left: 179px;
+    color: grey;
+}
+#webpage #cont #left form #btn #b1{
+    width: 112%;
+    height: 35px;
+    border-radius: 20px;
+    border: 2px solid darkgray;
+    background-color: white;
+}
+#webpage #cont #left form #btn #b1:hover{
+    border: 2px solid black;
+    background-color: rgb(199, 195, 195);
+
+}
+#webpage #cont #left form #btn #b2:hover{
+    border: 2px solid black;
+    background-color: rgb(199, 195, 195);
+}
+#webpage #cont #left form #btn #b2{
+    width: 112%;
+    height: 35px;
+    border-radius: 20px;
+    background-color: white;
+    border: 2px solid darkgray;
+}
+#webpage #cont #left form #btn #b1 a{
+    color: darkgray;
+    text-decoration: none;
+}
+#webpage #cont #left form #btn #b2 a{
+    color: darkgray;
+    text-decoration: none;
+}
+#webpage #right img{
+    width: 100%;
+}
+
